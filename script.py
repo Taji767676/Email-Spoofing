@@ -38,11 +38,11 @@ def send_mail(receiver_email, spoofed_email, spoofed_name, message, subject):
 
 
 # Change the details below for spoofing
-receiver_email = '<Receivers Email Address>'
-spoofed_email = '<Spoofed Email Address>'
-spoofed_name = '<Spoofed Name>'
-message = '<Text Message to send>'
-subject = '<Email Subject/Title>'
+receiver_email = '<tajinder444i@gmail.com>'
+spoofed_email = '<google@noreply.com>'
+spoofed_name = '<google>'
+message = '<Text Message >'
+subject = '<Email yy/ygjg>'
 
 # Invoke send_mail to send email
 send_mail(receiver_email, spoofed_email, spoofed_name, message, subject)
